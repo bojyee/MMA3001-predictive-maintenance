@@ -1,0 +1,4 @@
+model,median_fit_ms,median_batch_predict_ms,median_predict_ms_per_row,peak_traced_python_MiB,fit_repetitions,prediction_repetitions_per_fit
+Majority baseline,0.592,0.158,7.9e-05,0.317,7,30
+Logistic Regression (C=1),23.675,3.62,0.00181,0.999,7,30
+Frozen Decision Tree,26.593,3.681,0.001841,1.109,7,30
